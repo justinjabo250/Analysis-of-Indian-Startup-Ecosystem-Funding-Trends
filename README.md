@@ -1,20 +1,47 @@
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ikoghoemmanuell)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://link.medium.com/qGCAF2xRCwb)
-[![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://emmanuelikogho.netlify.app/)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/justinjabo250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250)
+[![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://github.com/justinjabo250?tab=repositories)
 
-## Exploratory Data Analysis of Indian-Startup-Funding
+## Analysis-of-Indian-Startup-Ecosystem-Funding-Trends
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*I0pbJXG4v0fGGUlxAYIOng.jpeg" width="550">
 
-## Introduction
+# Project Description
 
-Ideas, creativity, and execution are essential for a start-up to flourish. But are they enough? Investors provide start-ups and other entrepreneurial ventures with the capital---popularly known as "funding"---to think big, grow rich, and leave a lasting impact. 
-In this project, I am going to analyse funding received by start-ups in India from 2018 to 2021.
+This project aims to inform significant players who are thinking about joining the Indian startup ecosystem. To do this, we will look at significant indicators of startup investment in India from 2018 to 2021. Utilizing this knowledge, management will make smart business decisions.
 
-## Scenario
+I developed a hypothesis to test the dataset in order to get a reliable result. The data were studied in terms of technological and non-technology industries in order to establish which industry is more likely to draw investment from investors.
 
-Azubi Africa is trying to venture into the Indian start-up ecosystem. As the data experts of the company, team nice is to investigate the ecosystem and propose the best course of action.
+
+# Questions :
+
+<ol type="1"style="font-size:20px;font-weight: bold;font-family: 'Times New Roman'"> 
+    <li>what are the top five sectors where funding is maximum?</li>
+    <li>what is the location with most starstup funded?</li>
+    <li>what is the maximum amount of funding recieved by a startup?</li>
+    <li>what is the most startups which has a potential or can attract more investor's to invest in?</li>
+    <li>what is the total amount of funds each year?</li>
+    <li>In which year did a startup recieve the highest amount of funding?</li>
+    <li>Which stage receives more investment from investors for start-ups?</li>
+    <li>Who makes the biggest investments among investors?</li>
+    <li>Can the startup's age effect the amount of funding it receives from investors?</li>
+</ol><br><br>
+
+# Hypothesis :
+
+
+I created the null and alternate hypotheses to concentrate on two groups: companies that are technology-biased and startups that are not technology-biased, in order to further evaluate and analyze the data. Hence, the following two hypotheses are presented:
+
+To focus on two groups—startups that are not technology-biased and companies that are—and to further examine and analyze the data, I developed the null and alternate hypotheses. Consequently, the two following hypotheses are offered:
+
+
+**NULL:** It is unlikely that Indian startups in the technology industries will get funded.
+
+
+**ALTERNATE:** Indian startups in the technology industries are likely to receive investment.
+
 
 # 📁 Dataset
 
@@ -59,4 +86,4 @@ Give a ⭐️ if you like this project!
 
 ---
 
-<p>&copy; 2023 Ikogho Emmanuel</p>
+<p>&copy; 2023 Justin Jabo</p>
