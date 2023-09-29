@@ -6,7 +6,7 @@
 
 ## Analysis-of-Indian-Startup-Ecosystem-Funding-Trends
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*I0pbJXG4v0fGGUlxAYIOng.jpeg" width="550">
+<img src="https://user-images.githubusercontent.com/115732734/271718296-d75a8f66-676f-493b-96d8-e589e15d30d8.jpeg" width="550">
 
 # Project Description
 
@@ -14,6 +14,7 @@ This project aims to inform significant players who are thinking about joining t
 
 I developed a hypothesis to test the dataset in order to get a reliable result. The data were studied in terms of technological and non-technology industries in order to establish which industry is more likely to draw investment from investors.
 
+<img src="https://user-images.githubusercontent.com/115732734/271718438-4e130f5a-a080-4666-a9ee-abcf23d6eebd.jpeg" width="550">
 
 # Questions :
 
